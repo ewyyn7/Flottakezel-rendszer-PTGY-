@@ -1,2 +1,2 @@
-# Flottakezel-rendszer-PTGY-
+# Flottakezelő rendszer
 Programozási technológiák gy. tárgy beadandója.
